@@ -1,4 +1,4 @@
 # Machine-learning
 
 
-This is Repository to store sample Python programs.
+This is a repository to store my sample Python programs and machine learning algorithms.
